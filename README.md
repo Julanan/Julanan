@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ServiceNow,JavaScript,CSS,HTML**
 
-- 📫 How to reach me **julanan93@gmail.com**
+- 📫 How to reach me **Komin@cccareers.org**
 
 - ⚡ Fun fact **Journey of a Truck driver to a Software Engineer**
 
